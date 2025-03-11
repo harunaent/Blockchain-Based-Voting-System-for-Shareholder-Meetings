@@ -9,3 +9,7 @@ R
 "contracts/proposal-submission.clar,2/3/234c95e54b879a293f2d6ef91ce26271ff33cee0
 O
 contracts/proxy-assignment.clar,7/d/7d7351bf3a77ac30232fa093c9c988ee51afb050
+L
+contracts/vote-tallying.clar,6/4/64a26c9f57288c40c3b6ab0a813102ead7beca15
+K
+tests/vote-tallying.test.ts,3/d/3d6e27ac88b732a30bf7c34dfad25d792350c06c
