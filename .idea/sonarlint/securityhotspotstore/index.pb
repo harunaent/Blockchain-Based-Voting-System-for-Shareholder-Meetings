@@ -7,3 +7,5 @@ V
 &tests/shareholder-verification.test.ts,4/5/45ba3a224bcdf2465402cb773ea610497ad623d0
 R
 "contracts/proposal-submission.clar,2/3/234c95e54b879a293f2d6ef91ce26271ff33cee0
+O
+contracts/proxy-assignment.clar,7/d/7d7351bf3a77ac30232fa093c9c988ee51afb050
